@@ -28,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -86,7 +86,7 @@
       <workItem from="1568300314384" duration="243000" />
       <workItem from="1568300604142" duration="1524000" />
       <workItem from="1568302373668" duration="2055000" />
-      <workItem from="1568304497728" duration="853000" />
+      <workItem from="1568304497728" duration="937000" />
     </task>
     <servers />
   </component>

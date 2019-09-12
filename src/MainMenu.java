@@ -13,7 +13,7 @@ public class MainMenu {
         frame.pack(); //TODO Buscar que signficica esta línea
         frame.setVisible(true); //Hacer que la ventana sea visible
         //Test
-        //TODO Añadir git intellij
+        //TODO testeando si funciona
     }
 }
 
