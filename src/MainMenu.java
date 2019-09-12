@@ -12,6 +12,8 @@ public class MainMenu {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); //Si le damos a la cruz la aplicación se cierra
         frame.pack(); //TODO Buscar que signficica esta línea
         frame.setVisible(true); //Hacer que la ventana sea visible
+        //Test
+        //TODO Añadir git intellij
     }
 }
 
