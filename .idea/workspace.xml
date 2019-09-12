@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5fb380a-9409-4d68-84e9-f7063033fdf3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/TitleObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TestBeforePlay/MainMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestBeforePlay/MainMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainMenu.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainMenu.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MainMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainMenu.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JavaFXApplication" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -91,7 +93,7 @@
       <workItem from="1568300604142" duration="1524000" />
       <workItem from="1568302373668" duration="2055000" />
       <workItem from="1568304497728" duration="937000" />
-      <workItem from="1568305669608" duration="1169000" />
+      <workItem from="1568305669608" duration="4421000" />
     </task>
     <task id="LOCAL-00001" summary="probando algunas cosas sobre git">
       <created>1568305835991</created>
@@ -107,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568306103089</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Añadid estrucutra inicial de un botón y prueba">
+      <created>1568306949526</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568306949526</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +138,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="probando algunas cosas sobre git" />
     <MESSAGE value="cambiada dirección de icono a una dirección relativa" />
-    <option name="LAST_COMMIT_MESSAGE" value="cambiada dirección de icono a una dirección relativa" />
+    <MESSAGE value="Añadid estrucutra inicial de un botón y prueba" />
+    <option name="LAST_COMMIT_MESSAGE" value="Añadid estrucutra inicial de un botón y prueba" />
   </component>
 </project>
